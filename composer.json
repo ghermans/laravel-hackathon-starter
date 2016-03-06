@@ -1,6 +1,6 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
+    "name": "unicodeveloper/laravel-hackathon-starter",
+    "description": "Boilerplate for building MVP web applications with Laravel & getting ahead in Hackathons",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
